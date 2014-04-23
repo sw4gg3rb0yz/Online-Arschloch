@@ -2,7 +2,4 @@
 
 A network-based Java version of the card-game Arschloch
 
-Developers:
-	Felix Bengsch
-	Björn Heinrichs
-	Jan Kruse
+Developers: Felix Bengsch, Björn Heinrichs, Jan Kruse
