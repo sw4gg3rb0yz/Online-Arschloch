@@ -4,13 +4,21 @@
  * and open the template in the editor.
  */
 
+
 package gui;
 
 /**
  *
  * @author Jan
  */
-public class GUI extends javax.swing.JFrame {
+
+import javax.swing.*;
+
+import java.awt.*;
+
+import java.awt.event.*;
+
+public class GUI  extends JFrame {
 
     /**
      * Creates new form GUI
@@ -141,6 +149,8 @@ public class GUI extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+   
+    
     private void Karte4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Karte4ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_Karte4ActionPerformed
@@ -179,6 +189,9 @@ public class GUI extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
+                
+
+               
                 new GUI().setVisible(true);
             }
         });
