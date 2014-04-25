@@ -1,5 +1,5 @@
-[ ] Images for the cards
-[ ] Initial GUI design
+[x] Images for the cards
+[x] Initial GUI design
 [ ] Server barebone
 [ ] Client barebone
 [ ] Full functional proof-of-concept version
